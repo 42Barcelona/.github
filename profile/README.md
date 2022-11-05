@@ -1,4 +1,4 @@
-## Hi there, it 42 Barcelona ! 👋
+## Hi there, it's 42 Barcelona ! 👋
 
 <!--
 
